@@ -4,15 +4,13 @@ if H != 0:
     if M < 45:
         H -= 1
         M = M + 60 - 45
-        print(H, M)
     else:
         M -= 45
-        print(H, M)
 else:
     if M < 45:
         H = 23
         M = M + 60 - 45
-        print(H, M)
     else:
         M -= 45
-        print(H, M)
+
+print(H, M)
