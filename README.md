@@ -1,7 +1,6 @@
 # Studying Algorithm with Python
 This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
 ***
-***
 
 24/03/07 - 공백 한 칸 기준으로 한 줄에 여러 정수 입력받을 때 map(int, input().split())를 사용함을 공부함
 ***
